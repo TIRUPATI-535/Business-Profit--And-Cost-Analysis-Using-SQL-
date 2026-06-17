@@ -182,7 +182,5 @@ This project demonstrates practical SQL skills by applying database design, join
 
 **Tirupati**
 
-Aspiring SQL Developer | Data Analyst | Data Science Enthusiast
-
 ---
-⭐ If you found this project useful, consider giving it a star.
+
